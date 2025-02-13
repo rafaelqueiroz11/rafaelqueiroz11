@@ -7,9 +7,7 @@ Eu sou o Rafael Queiroz, sou um Programador Front End, altualmente estou aprende
    - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
    <br>
    <br>
-
-  <a href="www.linkedin.com/in/rafaelqueiroz97"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/> </a>
-  <a href="https://www.instagram.com/rafaqueiroz11/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram"/> </a>
+<a href="https://www.instagram.com/rafaqueiroz11/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram"/> </a>
   <br> 
   <br>
   <br>
